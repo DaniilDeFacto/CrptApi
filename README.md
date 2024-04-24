@@ -1,3 +1,6 @@
+### Tests and linter status:
+[![Java CI](https://github.com/DaniilDeFacto/CrptApi/actions/workflows/main.yml/badge.svg)](https://github.com/DaniilDeFacto/CrptApi/actions/workflows/main.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7e56bd3a31bfdbc8d474/maintainability)](https://codeclimate.com/github/DaniilDeFacto/CrptApi/maintainability)
 # CrptApi
 Данный проект является результатом выполнения следующего тестового задания:
 
