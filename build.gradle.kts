@@ -21,6 +21,7 @@ repositories {
 
 dependencies {
     implementation("org.apache.httpcomponents:httpclient:4.5.14")
+    implementation("com.google.guava:guava:33.2.1-jre")
     compileOnly("org.projectlombok:lombok:1.18.32")
     annotationProcessor("org.projectlombok:lombok:1.18.32")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.17.0")
